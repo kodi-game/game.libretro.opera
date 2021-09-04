@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.opera"
 		name="The 3DO Company - 3DO (Opera)"
-		version="1.0.0.20"
+		version="1.0.0.21"
 		provider-name="trapexit, JohnnyDude, FreeDO team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -13,6 +13,7 @@
 		<extensions>iso|bin|chd|cue</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>LGPL/Non-commercial</license>
