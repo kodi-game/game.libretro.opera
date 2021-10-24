@@ -74,29 +74,33 @@ msgid "NVRAM Storage"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Active Input Devices"
+msgid "NVRAM Version"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Timing Hack 1 (Crash 'n Burn)"
+msgid "Active Input Devices"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Timing Hack 3 (Dinopark Tycoon)"
+msgid "Timing Hack 1 (Crash 'n Burn)"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Timing Hack 5 (Microcosm)"
+msgid "Timing Hack 3 (Dinopark Tycoon)"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Timing Hack 6 (Alone in the Dark)"
+msgid "Timing Hack 5 (Microcosm)"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Graphics Step Y Hack (Samurai Showdown)"
+msgid "Timing Hack 6 (Alone in the Dark)"
 msgstr ""
 
 msgctxt "#30018"
+msgid "Graphics Step Y Hack (Samurai Showdown)"
+msgstr ""
+
+msgctxt "#30019"
 msgid "Debug Output"
 msgstr ""
