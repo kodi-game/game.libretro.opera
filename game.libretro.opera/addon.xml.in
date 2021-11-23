@@ -23,6 +23,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">The 3DO Company - 3DO (Opera) 1.0.0</summary>
+		<description lang="da_DK">Opera emulerer 3DO Interactive Multiplayer videospilsystemet, ofte blot kaldet 3DO.[CR][CR]Opera er en fork af 4DO, som er baseret på FreeDO-kildekoden.</description>
 		<description lang="en_GB">Opera emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]Opera is a fork of 4DO, which is based on the FreeDO source code.</description>
 	</extension>
 </addon>
