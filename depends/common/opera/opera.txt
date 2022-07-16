@@ -1,1 +1,1 @@
-opera https://github.com/libretro/opera-libretro/archive/3849c969c64b82e622a7655b327fa94bc5a4c7cc.tar.gz
+opera https://github.com/libretro/opera-libretro/archive/5b382f8f24a645b171c4bb2220e7f7c5462671ce.tar.gz
