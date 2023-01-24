@@ -15,7 +15,7 @@ LGPL/Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.opera/resources/icon.png)
+![The 3DO Company - 3DO (Opera) icon](game.libretro.opera/resources/icon.png)
 
 ### Fanart
 
