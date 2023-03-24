@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgctxt "Addon Summary"
-msgid "The 3DO Company - 3DO (Opera) 1.0.0"
+msgid "The 3DO Company - 3DO (Opera)"
 msgstr ""
 
 msgctxt "Addon Description"
