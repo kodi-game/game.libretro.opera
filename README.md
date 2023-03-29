@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.opera.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.opera)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.opera?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-opera)
-
 # The 3DO Company - 3DO (Opera)
 
 ### Description
