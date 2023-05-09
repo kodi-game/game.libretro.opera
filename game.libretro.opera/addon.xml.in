@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">The 3DO Company - 3DO (Opera)</summary>
 		<summary lang="en_GB">The 3DO Company - 3DO (Opera)</summary>
 		<summary lang="es_ES">The 3DO Company - 3DO (Opera)</summary>
 		<description lang="da_DK">Opera emulerer 3DO Interactive Multiplayer videospilsystemet, ofte blot kaldet 3DO.[CR][CR]Opera er en fork af 4DO, som er baseret på FreeDO-kildekoden.</description>
