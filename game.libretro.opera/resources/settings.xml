@@ -14,6 +14,7 @@
 		<setting label="30011" type="select" id="opera_nvram_storage" values="per game|shared" default="per game"/>
 		<setting label="30012" type="select" id="opera_nvram_version" values="0|1|2|3|4|5|6|7|8|9" default="0"/>
 		<setting label="30013" type="select" id="opera_active_devices" values="1|0|2|3|4|5|6|7|8" default="1"/>
+		<setting label="30020" type="select" id="opera_hide_lightgun_crosshairs" values="disabled|enabled" default="disabled"/>
 		<setting label="30014" type="select" id="opera_hack_timing_1" values="disabled|enabled" default="disabled"/>
 		<setting label="30015" type="select" id="opera_hack_timing_3" values="disabled|enabled" default="disabled"/>
 		<setting label="30016" type="select" id="opera_hack_timing_5" values="disabled|enabled" default="disabled"/>
