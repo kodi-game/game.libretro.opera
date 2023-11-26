@@ -104,3 +104,7 @@ msgstr "图形 Step Y Hack（武士决战）"
 msgctxt "#30019"
 msgid "Debug Output"
 msgstr "调试输出"
+
+msgctxt "#30020"
+msgid "Hide Lightgun Crosshairs"
+msgstr ""

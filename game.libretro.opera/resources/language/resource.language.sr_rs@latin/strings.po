@@ -103,3 +103,7 @@ msgstr ""
 msgctxt "#30019"
 msgid "Debug Output"
 msgstr ""
+
+msgctxt "#30020"
+msgid "Hide Lightgun Crosshairs"
+msgstr ""

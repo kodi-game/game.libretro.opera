@@ -104,3 +104,7 @@ msgstr "Y hack ved trin for grafik (Samurai Showdown)"
 msgctxt "#30019"
 msgid "Debug Output"
 msgstr "Fejlfind udgang"
+
+msgctxt "#30020"
+msgid "Hide Lightgun Crosshairs"
+msgstr ""
