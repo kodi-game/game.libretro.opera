@@ -41,10 +41,6 @@ msgctxt "#30003"
 msgid "CPU Overclock"
 msgstr "CPU-Übertaktung"
 
-msgctxt "#30004"
-msgid "Mode"
-msgstr "Modus"
-
 msgctxt "#30005"
 msgid "VDLP Pixel Format"
 msgstr "VDLP-Pixelformat"
@@ -108,3 +104,15 @@ msgstr "Debugausgabe"
 msgctxt "#30020"
 msgid "Hide Lightgun Crosshairs"
 msgstr ""
+
+msgctxt "#30021"
+msgid "Memory Capacity"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Region / Mode"
+msgstr ""
+
+#~ msgctxt "#30004"
+#~ msgid "Mode"
+#~ msgstr "Modus"
