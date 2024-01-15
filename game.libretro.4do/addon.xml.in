@@ -15,13 +15,13 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">The 3DO Company - 3DO (4DO)</summary>
+		<description lang="en_GB">4DO emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]4DO is based on the FreeDO source code.</description>
 		<license>LGPL/Non-commercial</license>
 		<platform>windows-x86_64</platform>
 		<source>https://github.com/kodi-game/game.libretro.4do</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<summary lang="en_GB">The 3DO Company - 3DO (Opera)</summary>
-		<description lang="en_GB">4DO emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]4DO is based on the FreeDO source code.</description>
 	</extension>
 </addon>
