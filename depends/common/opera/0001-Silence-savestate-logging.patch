@@ -1,0 +1,28 @@
+From 2b14f46a029ddd0caa980ed3fe957d152e36ad64 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 11 Jul 2024 20:12:38 -1000
+Subject: [PATCH] Silence savestate logging
+
+---
+ libopera/opera_state.c | 5 -----
+ 1 file changed, 5 deletions(-)
+
+diff --git a/libopera/opera_state.c b/libopera/opera_state.c
+index accc99e..d204331 100644
+--- a/libopera/opera_state.c
++++ b/libopera/opera_state.c
+@@ -37,11 +37,6 @@ opera_state_save(void           *dst_,
+   char     name[4] = {0};
+   uint8_t *dst     = dst_;
+ 
+-  opera_log_printf(OPERA_LOG_DEBUG,
+-                   "[Opera]: saving state %s of size %u\n",
+-                   name_,
+-                   src_size_);
+-
+   memcpy(name,name_,sizeof(name));
+   memcpy(dst,name,sizeof(name));
+   dst += sizeof(name);
+-- 
+2.45.2
+
