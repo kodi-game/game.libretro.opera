@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Opera emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]Opera is a fork of 4DO, which is based on the FreeDO source code."
 msgstr "Opera emula el sistema de videojuegos 3DO Interactive Multiplayer, a menudo llamado simplemente 3DO.[CR][CR]Opera es una bifurcación de 4DO, que se basa en el código fuente de FreeDO."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "BIOS (rom1)"
 msgstr "BIOS (rom1)"
@@ -112,6 +108,10 @@ msgstr "Capacidad de la Memoria"
 msgctxt "#30022"
 msgid "Region / Mode"
 msgstr "Región / Modo"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
 
 #~ msgctxt "#30004"
 #~ msgid "Mode"
