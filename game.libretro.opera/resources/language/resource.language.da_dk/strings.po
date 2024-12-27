@@ -22,7 +22,7 @@ msgid "The 3DO Company - 3DO (Opera)"
 msgstr "The 3DO Company - 3DO (Opera)"
 
 msgctxt "Addon Description"
-msgid "Opera emulates the 1993 3DO Interactive Multiplayer video game system, pronounced 3-D-Oh.[CR][CR]Opera is a fork of 4DO, which is based on the FreeDO source code."
+msgid "Opera emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.[CR][CR]Opera is a fork of 4DO, which is based on the FreeDO source code."
 msgstr "Opera emulerer 3DO Interactive Multiplayer videospilsystemet, ofte blot kaldet 3DO.[CR][CR]Opera er en fork af 4DO, som er baseret på FreeDO-kildekoden."
 
 msgctxt "#30001"
