@@ -23,9 +23,11 @@ msgid "The 3DO Company - 3DO (Opera)"
 msgstr "3DO 公司 - 3DO（Opera）"
 
 msgctxt "Addon Description"
-msgid "Opera emulates the 1993 3DO Interactive Multiplayer video game system, pronounced 3-D-Oh.[CR][CR]Opera is a fork of 4DO, which is based on the FreeDO source code."
-msgstr "[CR]Opera 模拟了 3DO 交互式多人视频游戏系统，通常简称为 3DO。[CR][CR]Opera 是 [CR]4DO 的一个分支，它基于 FreeDO 源代码。"
-
+msgid ""
+"Opera emulates the 1993 3DO Interactive Multiplayer video game system, "
+"pronounced 3-D-Oh.[CR][CR]Opera is a fork of 4DO, which is based on the "
+"FreeDO source code."
+msgstr ""
 "Opera 模拟了 3DO 交互式多人视频游戏系统，通常简称为 3DO。[CR][CR]Opera 是 "
 "4DO 的一个分支，它基于 FreeDO 源代码。"
 
