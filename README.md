@@ -2,7 +2,7 @@
 
 ### Description
 
-Opera emulates the 3DO Interactive Multiplayer video game system, often called simply the 3DO.
+Opera emulates the 1993 3DO Interactive Multiplayer video game system, pronounced 3-D-Oh.
 
 Opera is a fork of 4DO, which is based on the FreeDO source code.
 
