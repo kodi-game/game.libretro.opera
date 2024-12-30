@@ -1,0 +1,24 @@
+From 2c66e75d4bab0f798f97b920d71cf50e54c9cee9 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Mon, 30 Dec 2024 09:31:10 -0800
+Subject: [PATCH] Show all bios and fonts in core options
+
+---
+ libretro_core_options.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/libretro_core_options.c b/libretro_core_options.c
+index 0022186..e0869f8 100644
+--- a/libretro_core_options.c
++++ b/libretro_core_options.c
+@@ -378,6 +378,7 @@ static
+ bool
+ file_exists_in_system_directory(const char *filename)
+ {
++  return true;
+   int ret;
+   char fullpath[PATH_MAX_LENGTH];
+   const char *system_path = NULL;
+-- 
+2.43.0
+
