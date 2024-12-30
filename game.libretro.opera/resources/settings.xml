@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="128">
-		<setting label="30001" type="select" id="opera_bios" values="disabled" default="disabled"/>
-		<setting label="30002" type="select" id="opera_font" values="disabled" default="disabled"/>
+		<setting label="30001" type="select" id="opera_bios" values="panafz1.bin|panafz1j.bin|panafz1j-norsa.bin|panafz10.bin|panafz10-norsa.bin|panafz10e-anvil.bin|panafz10e-anvil-norsa.bin|goldstar.bin|sanyotry.bin|3do_arcade_saot.bin" default="panafz1.bin"/>
+		<setting label="30002" type="select" id="opera_font" values="disabled|panafz1-kanji.bin|panafz1j-kanji.bin|panafz10ja-anvil-kanji.bin" default="disabled"/>
 		<setting label="30003" type="select" id="opera_cpu_overclock" values="1.0x (12.50Mhz)|0.5x ( 6.25Mhz)|0.8x (10.00Mhz)|1.1x (13.75Mhz)|1.2x (15.00Mhz)|1.5x (18.75Mhz)|1.6x (20.00Mhz)|1.8x (22.50Mhz)|2.0x (25.00Mhz)|3.0x (37.50Mhz)|4.0x (50.00Mhz)" default="1.0x (12.50Mhz)"/>
 		<setting label="30021" type="select" id="opera_mem_capacity" values="21|22|41|42|81|82|E2|F1" default="21"/>
 		<setting label="30022" type="select" id="opera_region" values="ntsc|pal1|pal2" default="ntsc"/>
