@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.opera\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-opera/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "Opera emulerar 3DO Interactive Multiplayer-videospelsystemet från 1993,
 
 msgctxt "#30001"
 msgid "BIOS (rom1)"
-msgstr ""
+msgstr "BIOS (rom1)"
 
 msgctxt "#30002"
 msgid "Font (rom2)"
