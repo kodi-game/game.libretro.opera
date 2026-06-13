@@ -73,10 +73,6 @@ msgctxt "#30013"
 msgid "Active Input Devices"
 msgstr "Активные устройства ввода"
 
-msgctxt "#30014"
-msgid "Timing Hack 1 (Crash 'n Burn)"
-msgstr "Тайминговый хак 1 (Crash 'n Burn)"
-
 msgctxt "#30015"
 msgid "Timing Hack 3 (Dinopark Tycoon)"
 msgstr "Тайминговый хак 3 (Dinopark Tycoon)"
@@ -108,6 +104,14 @@ msgstr "Ёмкость памяти"
 msgctxt "#30022"
 msgid "Region / Mode"
 msgstr "Регион / режим"
+
+msgctxt "#30023"
+msgid "CD Speed"
+msgstr ""
+
+#~ msgctxt "#30014"
+#~ msgid "Timing Hack 1 (Crash 'n Burn)"
+#~ msgstr "Тайминговый хак 1 (Crash 'n Burn)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

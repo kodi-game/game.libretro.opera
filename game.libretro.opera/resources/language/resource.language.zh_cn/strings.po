@@ -73,10 +73,6 @@ msgctxt "#30013"
 msgid "Active Input Devices"
 msgstr "活跃输入设备"
 
-msgctxt "#30014"
-msgid "Timing Hack 1 (Crash 'n Burn)"
-msgstr "Timing Hack 1（崩溃和燃烧）"
-
 msgctxt "#30015"
 msgid "Timing Hack 3 (Dinopark Tycoon)"
 msgstr "Timing Hack 3（迪诺帕克大亨）"
@@ -108,6 +104,14 @@ msgstr "内存容量"
 msgctxt "#30022"
 msgid "Region / Mode"
 msgstr "地区 / 模式"
+
+msgctxt "#30023"
+msgid "CD Speed"
+msgstr ""
+
+#~ msgctxt "#30014"
+#~ msgid "Timing Hack 1 (Crash 'n Burn)"
+#~ msgstr "Timing Hack 1（崩溃和燃烧）"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

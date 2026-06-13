@@ -77,11 +77,6 @@ msgid "Active Input Devices"
 msgstr "Aktiva inmatningsenheter"
 
 #, fuzzy
-msgctxt "#30014"
-msgid "Timing Hack 1 (Crash 'n Burn)"
-msgstr "Timing Hack 1 (Crash 'n Burn)"
-
-#, fuzzy
 msgctxt "#30015"
 msgid "Timing Hack 3 (Dinopark Tycoon)"
 msgstr "Timing Hack 3 (Dinopark Tycoon)"
@@ -117,6 +112,15 @@ msgstr "Minneskapacitet"
 msgctxt "#30022"
 msgid "Region / Mode"
 msgstr "Region / Läge"
+
+msgctxt "#30023"
+msgid "CD Speed"
+msgstr ""
+
+#, fuzzy
+#~ msgctxt "#30014"
+#~ msgid "Timing Hack 1 (Crash 'n Burn)"
+#~ msgstr "Timing Hack 1 (Crash 'n Burn)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

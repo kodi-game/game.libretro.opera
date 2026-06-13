@@ -73,10 +73,6 @@ msgctxt "#30013"
 msgid "Active Input Devices"
 msgstr "Dispositivi di input attivi"
 
-msgctxt "#30014"
-msgid "Timing Hack 1 (Crash 'n Burn)"
-msgstr "Hack del tempo 1 (Crash 'n Burn)"
-
 msgctxt "#30015"
 msgid "Timing Hack 3 (Dinopark Tycoon)"
 msgstr "Hack del tempo 3 (Dinopark Tycoon)"
@@ -108,6 +104,14 @@ msgstr ""
 msgctxt "#30022"
 msgid "Region / Mode"
 msgstr ""
+
+msgctxt "#30023"
+msgid "CD Speed"
+msgstr ""
+
+#~ msgctxt "#30014"
+#~ msgid "Timing Hack 1 (Crash 'n Burn)"
+#~ msgstr "Hack del tempo 1 (Crash 'n Burn)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
