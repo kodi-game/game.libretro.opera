@@ -76,26 +76,6 @@ msgctxt "#30013"
 msgid "Active Input Devices"
 msgstr "Aktiva inmatningsenheter"
 
-#, fuzzy
-msgctxt "#30015"
-msgid "Timing Hack 3 (Dinopark Tycoon)"
-msgstr "Timing Hack 3 (Dinopark Tycoon)"
-
-#, fuzzy
-msgctxt "#30016"
-msgid "Timing Hack 5 (Microcosm)"
-msgstr "Timing Hack 5 (Mikrokosmos)"
-
-#, fuzzy
-msgctxt "#30017"
-msgid "Timing Hack 6 (Alone in the Dark)"
-msgstr "Timing Hack 6 (Ensam i mörkret)"
-
-#, fuzzy
-msgctxt "#30018"
-msgid "Graphics Step Y Hack (Samurai Showdown)"
-msgstr "Grafik Steg Y Hack (Samurai Showdown)"
-
 msgctxt "#30019"
 msgid "Debug Output"
 msgstr "Felsökningsutdata"
@@ -116,6 +96,30 @@ msgstr "Region / Läge"
 msgctxt "#30023"
 msgid "CD Speed"
 msgstr ""
+
+msgctxt "#30024"
+msgid "Random Number Generator Seed"
+msgstr ""
+
+#, fuzzy
+#~ msgctxt "#30015"
+#~ msgid "Timing Hack 3 (Dinopark Tycoon)"
+#~ msgstr "Timing Hack 3 (Dinopark Tycoon)"
+
+#, fuzzy
+#~ msgctxt "#30016"
+#~ msgid "Timing Hack 5 (Microcosm)"
+#~ msgstr "Timing Hack 5 (Mikrokosmos)"
+
+#, fuzzy
+#~ msgctxt "#30017"
+#~ msgid "Timing Hack 6 (Alone in the Dark)"
+#~ msgstr "Timing Hack 6 (Ensam i mörkret)"
+
+#, fuzzy
+#~ msgctxt "#30018"
+#~ msgid "Graphics Step Y Hack (Samurai Showdown)"
+#~ msgstr "Grafik Steg Y Hack (Samurai Showdown)"
 
 #, fuzzy
 #~ msgctxt "#30014"

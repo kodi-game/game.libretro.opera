@@ -73,22 +73,6 @@ msgctxt "#30013"
 msgid "Active Input Devices"
 msgstr "Aktive Eingabegeräte"
 
-msgctxt "#30015"
-msgid "Timing Hack 3 (Dinopark Tycoon)"
-msgstr "Timing-Hack 3 (Dinopark Tycoon)"
-
-msgctxt "#30016"
-msgid "Timing Hack 5 (Microcosm)"
-msgstr "Timing-Hack 5 (Microcosm)"
-
-msgctxt "#30017"
-msgid "Timing Hack 6 (Alone in the Dark)"
-msgstr "Timing-Hack 6 (Alone in the Dark)"
-
-msgctxt "#30018"
-msgid "Graphics Step Y Hack (Samurai Showdown)"
-msgstr ""
-
 msgctxt "#30019"
 msgid "Debug Output"
 msgstr "Debugausgabe"
@@ -108,6 +92,22 @@ msgstr ""
 msgctxt "#30023"
 msgid "CD Speed"
 msgstr ""
+
+msgctxt "#30024"
+msgid "Random Number Generator Seed"
+msgstr ""
+
+#~ msgctxt "#30015"
+#~ msgid "Timing Hack 3 (Dinopark Tycoon)"
+#~ msgstr "Timing-Hack 3 (Dinopark Tycoon)"
+
+#~ msgctxt "#30016"
+#~ msgid "Timing Hack 5 (Microcosm)"
+#~ msgstr "Timing-Hack 5 (Microcosm)"
+
+#~ msgctxt "#30017"
+#~ msgid "Timing Hack 6 (Alone in the Dark)"
+#~ msgstr "Timing-Hack 6 (Alone in the Dark)"
 
 #~ msgctxt "#30014"
 #~ msgid "Timing Hack 1 (Crash 'n Burn)"

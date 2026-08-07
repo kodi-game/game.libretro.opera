@@ -73,22 +73,6 @@ msgctxt "#30013"
 msgid "Active Input Devices"
 msgstr "Aktivní vstupní zařízení"
 
-msgctxt "#30015"
-msgid "Timing Hack 3 (Dinopark Tycoon)"
-msgstr "Časovací hack 3 (Dinopark Tycoon)"
-
-msgctxt "#30016"
-msgid "Timing Hack 5 (Microcosm)"
-msgstr "Časovací hack 5 (Microcosm)"
-
-msgctxt "#30017"
-msgid "Timing Hack 6 (Alone in the Dark)"
-msgstr "Časovací hack 6 (Alone in the Dark)"
-
-msgctxt "#30018"
-msgid "Graphics Step Y Hack (Samurai Showdown)"
-msgstr "Hack kroku Y grafiky (Samurai Shodown)"
-
 msgctxt "#30019"
 msgid "Debug Output"
 msgstr "Výstup ladění"
@@ -108,3 +92,23 @@ msgstr "Region / režim"
 msgctxt "#30023"
 msgid "CD Speed"
 msgstr "Rychlost CD"
+
+msgctxt "#30024"
+msgid "Random Number Generator Seed"
+msgstr ""
+
+#~ msgctxt "#30015"
+#~ msgid "Timing Hack 3 (Dinopark Tycoon)"
+#~ msgstr "Časovací hack 3 (Dinopark Tycoon)"
+
+#~ msgctxt "#30016"
+#~ msgid "Timing Hack 5 (Microcosm)"
+#~ msgstr "Časovací hack 5 (Microcosm)"
+
+#~ msgctxt "#30017"
+#~ msgid "Timing Hack 6 (Alone in the Dark)"
+#~ msgstr "Časovací hack 6 (Alone in the Dark)"
+
+#~ msgctxt "#30018"
+#~ msgid "Graphics Step Y Hack (Samurai Showdown)"
+#~ msgstr "Hack kroku Y grafiky (Samurai Shodown)"
