@@ -97,6 +97,238 @@ msgctxt "#30024"
 msgid "Random Number Generator Seed"
 msgstr ""
 
+msgctxt "#30025"
+msgid "System"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Select system BIOS. Only ROMS present in the system directory are listed. Changes take affect at core start/restart."
+msgstr ""
+
+msgctxt "#30027"
+msgid "Panasonic FZ-1 (U)"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Panasonic FZ-1 (J)"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Panasonic FZ-1 (J) [No RSA]"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Panasonic FZ-10 (U)"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Panasonic FZ-10 (U) [No RSA]"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Panasonic FZ-10 (E) ANVIL"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Panasonic FZ-10 (E) ANVIL [No RSA]"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Goldstar GDO-101M"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Sanyo Try IMP-21J"
+msgstr ""
+
+msgctxt "#30036"
+msgid "3DO Arcade - SAOT"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Select 'font rom'. Required by some Japanese games, otherwise optional. Only ROMs present in the system directory are listed. Changes take affect at core start/restart."
+msgstr ""
+
+msgctxt "#30038"
+msgid "Panasonic FZ-1 (J) Kanji ROM"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Panasonic FZ-10 (J) ANVIL Kanji ROM"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Select the effective CD-ROM read speed. Warning: can expose timing issues in some titles. Particularly above 16x."
+msgstr ""
+
+msgctxt "#30041"
+msgid " 1x - ~150KB/s"
+msgstr ""
+
+msgctxt "#30042"
+msgid " 2x - ~300KB/s (stock)"
+msgstr ""
+
+msgctxt "#30043"
+msgid " 4x - ~600KB/s"
+msgstr ""
+
+msgctxt "#30044"
+msgid " 8x - ~1200KB/s"
+msgstr ""
+
+msgctxt "#30045"
+msgid "16x - 2400KB/s"
+msgstr ""
+
+msgctxt "#30046"
+msgid "24x - 3600KB/s"
+msgstr ""
+
+msgctxt "#30047"
+msgid "32x - 4800KB/s"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Select the resolution and field rate. NOTE: some EU games require a EU ROM."
+msgstr ""
+
+msgctxt "#30049"
+msgid "NTSC 320x240@60"
+msgstr ""
+
+msgctxt "#30050"
+msgid "PAL1 320x288@50"
+msgstr ""
+
+msgctxt "#30051"
+msgid "PAL2 384x288@50"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Selects whether NVRAM saves should be created per-game or as a single NVRAM file shared between all games."
+msgstr ""
+
+msgctxt "#30053"
+msgid "Per Game"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Shared"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Select the NVRAM version."
+msgstr ""
+
+msgctxt "#30056"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Select the pixel format to request from the runtime and convert to from the internal 16bpp format. Changes take affect at core start."
+msgstr ""
+
+msgctxt "#30058"
+msgid "Force 3DO VDLP to bypass the game's CLUT (color lookup table). May result in incorrect colors but faster rendering."
+msgstr ""
+
+msgctxt "#30059"
+msgid "Enabling this option causes CELs to be rendered at 2x the resolution into a 2x output framebuffer, increasing the fidelity of 3D models. Will not affect 2D games. Has a significant performance impact."
+msgstr ""
+
+msgctxt "#30060"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Run the DSP (audio processor) on a separate CPU thread. Improves performance on multi-core systems. !EXPERIMENTAL!"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Sets the maximum number of emulated input devices. Certain games, particularly when using >16x CDROM speed and have more than 1 emulated controller, causes content to ignore gamepad input or crash. Setting 'Active Input Devices' to 1 can be workaround for this issue on some titles."
+msgstr ""
+
+msgctxt "#30064"
+msgid "Hides lightgun crosshairs for all players."
+msgstr ""
+
+msgctxt "#30065"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Increase clock speed of the emulated 3DO's 12.5MHz ARM60 CPU. Dramatically improves frame rates in many games, but increases performance requirements and in some cases has no effect (or may cause glitches)."
+msgstr ""
+
+msgctxt "#30067"
+msgid "Select the amount of DRAM and VRAM the system has. Only useful for homebrew and non-stock values may cause issues with some official software. Changes take affect at core start/restart. !EXPERIMENTAL!"
+msgstr ""
+
+msgctxt "#30068"
+msgid "2MB DRAM; 1MB VRAM (stock)"
+msgstr ""
+
+msgctxt "#30069"
+msgid "2MB DRAM; 2MB VRAM"
+msgstr ""
+
+msgctxt "#30070"
+msgid "4MB DRAM; 1MB VRAM"
+msgstr ""
+
+msgctxt "#30071"
+msgid "4MB DRAM; 2MB VRAM"
+msgstr ""
+
+msgctxt "#30072"
+msgid "8MB DRAM; 1MB VRAM"
+msgstr ""
+
+msgctxt "#30073"
+msgid "8MB DRAM; 2MB VRAM"
+msgstr ""
+
+msgctxt "#30074"
+msgid "14MB DRAM; 2MB VRAM"
+msgstr ""
+
+msgctxt "#30075"
+msgid "15MB DRAM; 1MB VRAM"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Select the initial seed for the emulated 3DO random number generators. Fixed seeds provide repeatable behavior for testing. Changes take effect after fully reinitializing the core."
+msgstr ""
+
+msgctxt "#30077"
+msgid "Random (time-based)"
+msgstr ""
+
+msgctxt "#30078"
+msgid "'MADAM' is the 3DO's graphics accelerator. It contains a custom maths co-processor, used by the 3DO's CPU to offload matrix operations. This corresponds to running in 'Hardware' - but the 3DO could also utilise a built-in ARM 'Software' version of the MADAM matrix engine. 'Hardware' mode is the default, but it has been observed that some games run faster when forcing 'Software' mode. Changes take affect at core start/restart."
+msgstr ""
+
+msgctxt "#30079"
+msgid "Hardware"
+msgstr ""
+
+msgctxt "#30080"
+msgid "Software"
+msgstr ""
+
+msgctxt "#30081"
+msgid "3DO games are built on top of Portfolio OS. Opera has high level emulation of certain OS functions. This HLE may improve performance in on certain games."
+msgstr ""
+
+msgctxt "#30082"
+msgid "Print 3DO debug port output to stderr. Only really useful to 3DO homebrew developers."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Asetukset"
