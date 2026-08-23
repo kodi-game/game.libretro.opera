@@ -329,6 +329,58 @@ msgctxt "#30082"
 msgid "Print 3DO debug port output to stderr. Only really useful to 3DO homebrew developers."
 msgstr ""
 
+msgctxt "#30083"
+msgid "unbounded"
+msgstr ""
+
+msgctxt "#30084"
+msgid "0x00000000"
+msgstr ""
+
+msgctxt "#30085"
+msgid "0x00000001"
+msgstr ""
+
+msgctxt "#30086"
+msgid "0xdeadbeef"
+msgstr ""
+
+msgctxt "#30087"
+msgid "0xcafebabe"
+msgstr ""
+
+msgctxt "#30088"
+msgid "0xfeedface"
+msgstr ""
+
+msgctxt "#30089"
+msgid "0xbaadf00d"
+msgstr ""
+
+msgctxt "#30090"
+msgid "0x8badf00d"
+msgstr ""
+
+msgctxt "#30091"
+msgid "0xdeadc0de"
+msgstr ""
+
+msgctxt "#30092"
+msgid "0xc001d00d"
+msgstr ""
+
+msgctxt "#30093"
+msgid "0x0badf00d"
+msgstr ""
+
+msgctxt "#30094"
+msgid "0x74726170"
+msgstr ""
+
+msgctxt "#30095"
+msgid "0x65786974"
+msgstr ""
+
 #~ msgctxt "#30015"
 #~ msgid "Timing Hack 3 (Dinopark Tycoon)"
 #~ msgstr "Тайминговый хак 3 (Dinopark Tycoon)"
