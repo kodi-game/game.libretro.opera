@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.opera\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2026-08-22 22:05+0000\n"
+"PO-Revision-Date: 2026-08-23 09:12+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-opera/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -331,55 +331,55 @@ msgstr "Vypisovat výstup ladicího portu 3DO na stderr. Opravdu užitečné jen
 
 msgctxt "#30083"
 msgid "unbounded"
-msgstr ""
+msgstr "neomezená"
 
 msgctxt "#30084"
 msgid "0x00000000"
-msgstr ""
+msgstr "0x00000000"
 
 msgctxt "#30085"
 msgid "0x00000001"
-msgstr ""
+msgstr "0x00000001"
 
 msgctxt "#30086"
 msgid "0xdeadbeef"
-msgstr ""
+msgstr "0xdeadbeef"
 
 msgctxt "#30087"
 msgid "0xcafebabe"
-msgstr ""
+msgstr "0xcafebabe"
 
 msgctxt "#30088"
 msgid "0xfeedface"
-msgstr ""
+msgstr "0xfeedface"
 
 msgctxt "#30089"
 msgid "0xbaadf00d"
-msgstr ""
+msgstr "0xbaadf00d"
 
 msgctxt "#30090"
 msgid "0x8badf00d"
-msgstr ""
+msgstr "0x8badf00d"
 
 msgctxt "#30091"
 msgid "0xdeadc0de"
-msgstr ""
+msgstr "0xdeadc0de"
 
 msgctxt "#30092"
 msgid "0xc001d00d"
-msgstr ""
+msgstr "0xc001d00d"
 
 msgctxt "#30093"
 msgid "0x0badf00d"
-msgstr ""
+msgstr "0x0badf00d"
 
 msgctxt "#30094"
 msgid "0x74726170"
-msgstr ""
+msgstr "0x74726170"
 
 msgctxt "#30095"
 msgid "0x65786974"
-msgstr ""
+msgstr "0x65786974"
 
 #~ msgctxt "#30015"
 #~ msgid "Timing Hack 3 (Dinopark Tycoon)"
