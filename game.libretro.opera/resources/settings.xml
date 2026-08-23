@@ -40,7 +40,7 @@
 					<default>unbounded</default>
 					<constraints>
 						<options>
-							<option>unbounded</option>
+							<option label="30083">unbounded</option>
 							<option label="30041">1x</option>
 							<option label="30042">2x</option>
 							<option label="30043">4x</option>
@@ -230,18 +230,18 @@
 					<constraints>
 						<options>
 							<option label="30077">random</option>
-							<option>0x00000000</option>
-							<option>0x00000001</option>
-							<option>0xdeadbeef</option>
-							<option>0xcafebabe</option>
-							<option>0xfeedface</option>
-							<option>0xbaadf00d</option>
-							<option>0x8badf00d</option>
-							<option>0xdeadc0de</option>
-							<option>0xc001d00d</option>
-							<option>0x0badf00d</option>
-							<option>0x74726170</option>
-							<option>0x65786974</option>
+							<option label="30084">0x00000000</option>
+							<option label="30085">0x00000001</option>
+							<option label="30086">0xdeadbeef</option>
+							<option label="30087">0xcafebabe</option>
+							<option label="30088">0xfeedface</option>
+							<option label="30089">0xbaadf00d</option>
+							<option label="30090">0x8badf00d</option>
+							<option label="30091">0xdeadc0de</option>
+							<option label="30092">0xc001d00d</option>
+							<option label="30093">0x0badf00d</option>
+							<option label="30094">0x74726170</option>
+							<option label="30095">0x65786974</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
