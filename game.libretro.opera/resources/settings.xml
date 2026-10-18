@@ -3,11 +3,13 @@
 	<section id="game.libretro.opera">
 		<category id="system" label="30025">
 			<group id="1">
-				<setting id="opera_bios" type="string" label="30001" help="30026">
+				<setting id="opera_bios" type="string" label="30001" help="30096">
 					<level>0</level>
-					<default>panafz1.bin</default>
+					<default>opera-boot-internal</default>
 					<constraints>
 						<options>
+							<option label="30097">opera-boot-internal</option>
+							<option label="30098">opera-boot.bin</option>
 							<option label="30027">panafz1.bin</option>
 							<option label="30028">panafz1j.bin</option>
 							<option label="30029">panafz1j-norsa.bin</option>
@@ -207,7 +209,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="opera_mem_capacity" type="string" label="30021" help="30067">
+				<setting id="opera_mem_capacity" type="string" label="30021" help="30099">
 					<level>0</level>
 					<default>21</default>
 					<constraints>
