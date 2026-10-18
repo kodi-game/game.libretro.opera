@@ -101,10 +101,6 @@ msgctxt "#30025"
 msgid "System"
 msgstr "Система"
 
-msgctxt "#30026"
-msgid "Select system BIOS. Only ROMS present in the system directory are listed. Changes take affect at core start/restart."
-msgstr "Выберите системный BIOS. Перечислены только ROM, присутствующие в системном каталоге. Изменения вступают в силу при запуске/перезапуске ядра."
-
 msgctxt "#30027"
 msgid "Panasonic FZ-1 (U)"
 msgstr "Panasonic FZ-1 (U)"
@@ -265,10 +261,6 @@ msgctxt "#30066"
 msgid "Increase clock speed of the emulated 3DO's 12.5MHz ARM60 CPU. Dramatically improves frame rates in many games, but increases performance requirements and in some cases has no effect (or may cause glitches)."
 msgstr "Увеличить тактовую частоту эмулируемого ЦП ARM60 12,5 МГц консоли 3DO. Значительно повышает частоту кадров во многих играх, но увеличивает требования к производительности и в некоторых случаях не даёт эффекта (или может вызвать сбои)."
 
-msgctxt "#30067"
-msgid "Select the amount of DRAM and VRAM the system has. Only useful for homebrew and non-stock values may cause issues with some official software. Changes take affect at core start/restart. !EXPERIMENTAL!"
-msgstr "Выберите объём DRAM и VRAM системы. Полезно только для homebrew, а нештатные значения могут вызвать проблемы с некоторым официальным программным обеспечением. Изменения вступают в силу при запуске/перезапуске ядра. !ЭКСПЕРИМЕНТАЛЬНО!"
-
 msgctxt "#30068"
 msgid "2MB DRAM; 1MB VRAM (stock)"
 msgstr "2 МБ DRAM; 1 МБ VRAM (штатные)"
@@ -380,6 +372,30 @@ msgstr "0x74726170"
 msgctxt "#30095"
 msgid "0x65786974"
 msgstr "0x65786974"
+
+msgctxt "#30096"
+msgid "Select system BIOS. Embedded Opera Boot is always available and is the default. Opera Boot in the system directory is available as a separate file-backed option. Other ROMs are listed only when present in the system directory and load from those files. Changes take effect at core start/restart."
+msgstr ""
+
+msgctxt "#30097"
+msgid "Opera Boot (Built-in)"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Opera Boot (System)"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Select the amount of DRAM and VRAM the system has. Intended for compatible homebrew; non-stock capacities require compatible BIOS and software. Changes take effect at core start/restart. !EXPERIMENTAL!"
+msgstr ""
+
+#~ msgctxt "#30026"
+#~ msgid "Select system BIOS. Only ROMS present in the system directory are listed. Changes take affect at core start/restart."
+#~ msgstr "Выберите системный BIOS. Перечислены только ROM, присутствующие в системном каталоге. Изменения вступают в силу при запуске/перезапуске ядра."
+
+#~ msgctxt "#30067"
+#~ msgid "Select the amount of DRAM and VRAM the system has. Only useful for homebrew and non-stock values may cause issues with some official software. Changes take affect at core start/restart. !EXPERIMENTAL!"
+#~ msgstr "Выберите объём DRAM и VRAM системы. Полезно только для homebrew, а нештатные значения могут вызвать проблемы с некоторым официальным программным обеспечением. Изменения вступают в силу при запуске/перезапуске ядра. !ЭКСПЕРИМЕНТАЛЬНО!"
 
 #~ msgctxt "#30015"
 #~ msgid "Timing Hack 3 (Dinopark Tycoon)"
