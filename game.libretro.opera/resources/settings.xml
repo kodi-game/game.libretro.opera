@@ -39,7 +39,7 @@
 				</setting>
 				<setting id="opera_cd_speed" type="string" label="30023" help="30040">
 					<level>0</level>
-					<default>unbounded</default>
+					<default>2x</default>
 					<constraints>
 						<options>
 							<option label="30083">unbounded</option>
